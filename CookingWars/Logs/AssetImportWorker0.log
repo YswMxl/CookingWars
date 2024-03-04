@@ -15,11 +15,11 @@ C:/Users/Mxlky/OneDrive/Escritorio/CookingWars/CookingWars
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-60140
+60998
 Successfully changed project path to: C:/Users/Mxlky/OneDrive/Escritorio/CookingWars/CookingWars
 C:/Users/Mxlky/OneDrive/Escritorio/CookingWars/CookingWars
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 16.05 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 20.90 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2020.3.6f1 (338bb68529b2)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity/Editor/Data/Resources/UnitySubsystems
@@ -35,275 +35,331 @@ Initialize mono
 Mono path[0] = 'C:/Program Files/Unity/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
 Mono config path = 'C:/Program Files/Unity/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56724
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56848
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: C:/Program Files/Unity/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.001206 seconds.
+Registered in 0.001335 seconds.
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 15.49 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 15.39 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.595 seconds
+- Completed reload, in  0.621 seconds
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.002397 seconds.
+Registered in 0.002486 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.17 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 0.24 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.535 seconds
+- Completed reload, in  0.568 seconds
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
 Launched and connected shader compiler UnityShaderCompiler.exe after 0.03 seconds
-Refreshing native plugins compatible for Editor in 0.17 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 0.20 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 1321 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 63.4 MB.
-System memory in use after: 63.5 MB.
+System memory in use before: 63.7 MB.
+System memory in use after: 63.8 MB.
 
 Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 1758.
-Total: 1.116900 ms (FindLiveObjects: 0.176600 ms CreateObjectMapping: 0.019300 ms MarkObjects: 0.885600 ms  DeleteObjects: 0.034500 ms)
+Total: 1.249900 ms (FindLiveObjects: 0.083800 ms CreateObjectMapping: 0.018000 ms MarkObjects: 1.106500 ms  DeleteObjects: 0.040600 ms)
 
 ========================================================================
 Received Import Request.
-  path: Assets/Modelos/Sala.fbx
-  artifactKey: Guid(8338022ea9270f24a9af304cf6c59959) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Modelos/Sala.fbx using Guid(8338022ea9270f24a9af304cf6c59959) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '028d243898c1659ee20a7f7cef8e795d') in 0.077222 seconds
-  Import took 0.078686 seconds .
+  path: Assets/Modelos/maquina mapeado 1.mat
+  artifactKey: Guid(ca0b29a8b33e3904c89b51f0f90187c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modelos/maquina mapeado 1.mat using Guid(ca0b29a8b33e3904c89b51f0f90187c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3d57259e601626e2abd28172df66aec7') in 0.067692 seconds
+  Import took 0.069170 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000319 seconds.
-  path: Assets/Modelos/Escenario.fbx
-  artifactKey: Guid(9a76c1d01047f51438e96f2872dbe66c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Modelos/Escenario.fbx using Guid(9a76c1d01047f51438e96f2872dbe66c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9fc88e3081483ccb48da67db0e455ac2') in 0.038912 seconds
-  Import took 0.040427 seconds .
+  Time since last request: 0.000413 seconds.
+  path: Assets/Modelos/Escenario.mat
+  artifactKey: Guid(f4d41698d4c886246b80a72fe4330fd7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modelos/Escenario.mat using Guid(f4d41698d4c886246b80a72fe4330fd7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'faa508cb6d4799fd007fa1f40f547e6f') in 0.033995 seconds
+  Import took 0.035591 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000384 seconds.
-  path: Assets/Modelos/Encimera.fbx
-  artifactKey: Guid(a8d093e450ed29143ab42981ef50bc00) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Modelos/Encimera.fbx using Guid(a8d093e450ed29143ab42981ef50bc00) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4f0a41c9ac19dcaeb927445e90626049') in 0.012638 seconds
-  Import took 0.014128 seconds .
+  Time since last request: 0.000408 seconds.
+  path: Assets/Modelos/RECIPIENTE 2 MAPEADO.mat
+  artifactKey: Guid(25ed24d202cd4064aa5e9baacc9f17c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modelos/RECIPIENTE 2 MAPEADO.mat using Guid(25ed24d202cd4064aa5e9baacc9f17c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3f52c0db8c6c16bf0390879dab6bca62') in 0.009063 seconds
+  Import took 0.010779 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000360 seconds.
-  path: Assets/Modelos/Puerta.fbx
-  artifactKey: Guid(b6cdc5b57c503a848a698974c01e1069) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Modelos/Puerta.fbx using Guid(b6cdc5b57c503a848a698974c01e1069) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd62a6d812c6d390ce477af89aa526529') in 0.016503 seconds
-  Import took 0.018022 seconds .
+  Time since last request: 0.000269 seconds.
+  path: Assets/Modelos/New Material.mat
+  artifactKey: Guid(aae7cfb698702ae4ab2e344377d49afd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modelos/New Material.mat using Guid(aae7cfb698702ae4ab2e344377d49afd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3ae03fef6265a7cd798adaf0a9ebefdb') in 0.007528 seconds
+  Import took 0.009454 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000369 seconds.
-  path: Assets/Modelos/Cliente.fbx
-  artifactKey: Guid(42b928b922d2e9f4aacf22aca5408101) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Modelos/Cliente.fbx using Guid(42b928b922d2e9f4aacf22aca5408101) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c77af6049524836e8cace9bca4e1cb21') in 0.039557 seconds
-  Import took 0.041116 seconds .
+  Time since last request: 0.000259 seconds.
+  path: Assets/Modelos/maquina mapeado.mat
+  artifactKey: Guid(c0a7af239817c564b9566d35da0a8a84) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modelos/maquina mapeado.mat using Guid(c0a7af239817c564b9566d35da0a8a84) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aa768e0ce74e8447f3ad112541c67858') in 0.009046 seconds
+  Import took 0.010707 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000336 seconds.
-  path: Assets/Modelos/Bote de salsa.fbx
-  artifactKey: Guid(388c08147d1d5de439bcdb5dd1993623) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Modelos/Bote de salsa.fbx using Guid(388c08147d1d5de439bcdb5dd1993623) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '600a4671182ee90bf5605f9b2a54a38f') in 0.012377 seconds
-  Import took 0.013895 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000349 seconds.
-  path: Assets/Modelos
-  artifactKey: Guid(1b77f81e0aa21204e8d5cdbff3fa0ae1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Modelos using Guid(1b77f81e0aa21204e8d5cdbff3fa0ae1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'be6229d3c977504e89c95f3d66d82213') in 0.001882 seconds
-  Import took 0.003174 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000450 seconds.
-  path: Assets/Modelos/Bandeja.fbx
-  artifactKey: Guid(9b453ae3af83b974999f5acbfa2bb83d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Modelos/Bandeja.fbx using Guid(9b453ae3af83b974999f5acbfa2bb83d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a504a3624408c5625fff1f80e925874b') in 0.010737 seconds
-  Import took 0.012306 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 54.262318 seconds.
-  path: Assets/Modelos/Caja.fbx
-  artifactKey: Guid(07086b83ca69ac240934ef6afb81fe24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Modelos/Caja.fbx using Guid(07086b83ca69ac240934ef6afb81fe24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3e60b978cdc42a291113e0acdb1f050d') in 0.030226 seconds
-  Import took 0.034037 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000166 seconds.
-  path: Assets/Modelos/EngranajeFBX.fbx
-  artifactKey: Guid(dd2004b12bb5f5245ba9fac1c643c40c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Modelos/EngranajeFBX.fbx using Guid(dd2004b12bb5f5245ba9fac1c643c40c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f9cf2f660a1dac55dc1b82733dacd1d5') in 0.008973 seconds
-  Import took 0.010429 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000186 seconds.
-  path: Assets/Modelos/PizzaAmasada.fbx
-  artifactKey: Guid(afee9faa542ff304997e97de01a28888) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Modelos/PizzaAmasada.fbx using Guid(afee9faa542ff304997e97de01a28888) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4a9b1c84b9f61b9fa54d666782dd72dc') in 0.009711 seconds
-  Import took 0.011238 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000452 seconds.
-  path: Assets/Modelos/Vaso.fbx
-  artifactKey: Guid(45beafaa32d94354987dffeb4f877e16) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Modelos/Vaso.fbx using Guid(45beafaa32d94354987dffeb4f877e16) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '569009982e957cd9fa2bdca6f1f30adb') in 0.009018 seconds
-  Import took 0.010609 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000215 seconds.
-  path: Assets/Modelos/VasoLleno.fbx
-  artifactKey: Guid(c9144ee071cbb7849ad5eb6f88d7d2fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Modelos/VasoLleno.fbx using Guid(c9144ee071cbb7849ad5eb6f88d7d2fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cc6f96c616d07006289f533d8f7cf7b7') in 0.008982 seconds
-  Import took 0.010466 seconds .
+  Time since last request: 2.202508 seconds.
+  path: Assets/Modelos/Escenario 1.mat
+  artifactKey: Guid(86bcb73d598536e4295f6196645f937e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modelos/Escenario 1.mat using Guid(86bcb73d598536e4295f6196645f937e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8b6dbeba2526b9d53bf5f342219338f1') in 0.018629 seconds
+  Import took 0.020412 seconds .
 
 ========================================================================
 Received Import Request.
   Time since last request: 0.000176 seconds.
-  path: Assets/Modelos/Player.fbx
-  artifactKey: Guid(ab1973bf8b86ec341938c1ab76bcfa2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Modelos/Player.fbx using Guid(ab1973bf8b86ec341938c1ab76bcfa2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aded1b62404ad86c743a9f76eee62fa6') in 0.008121 seconds
-  Import took 0.009557 seconds .
+  path: Assets/Modelos/Escenario 2.mat
+  artifactKey: Guid(d7d8e9b0b5e94d649905e321debc47b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modelos/Escenario 2.mat using Guid(d7d8e9b0b5e94d649905e321debc47b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd22d4f47b820ef27f611dddc62ae4282') in 0.021337 seconds
+  Import took 0.022902 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000208 seconds.
-  path: Assets/Modelos/Masa.fbx
-  artifactKey: Guid(e4ebae3708eac1845b289c068a43ab9f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Modelos/Masa.fbx using Guid(e4ebae3708eac1845b289c068a43ab9f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '75e3aa43750efba2939ec5f877fb40f7') in 0.010317 seconds
-  Import took 0.011802 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000159 seconds.
-  path: Assets/Modelos/Escenario 1.fbx
-  artifactKey: Guid(bbade48319413354bab48ddfbb97ae13) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Modelos/Escenario 1.fbx using Guid(bbade48319413354bab48ddfbb97ae13) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '64b0faff516c5240a04c46d90a4e4cbe') in 0.033037 seconds
-  Import took 0.034514 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000157 seconds.
-  path: Assets/Modelos/Papelera.fbx
-  artifactKey: Guid(2d8d43dfceb724349a9d59113a2547f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Modelos/Papelera.fbx using Guid(2d8d43dfceb724349a9d59113a2547f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fe8e8b353e0693516b1b391bdb98016d') in 0.008788 seconds
-  Import took 0.010741 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 5414.483388 seconds.
-  path: Assets/Modelos/maquina mapeado.fbx
-  artifactKey: Guid(d94df5c243c0ba94ebc6bbf87839b16d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Modelos/maquina mapeado.fbx using Guid(d94df5c243c0ba94ebc6bbf87839b16d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bc1c5c03d34975c2c8aff7bf1d110fb0') in 0.052075 seconds
-  Import took 0.056614 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000167 seconds.
-  path: Assets/Modelos/mesa mapeada.fbx
-  artifactKey: Guid(44d83da423505f94480ef0ff3a76f7eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Modelos/mesa mapeada.fbx using Guid(44d83da423505f94480ef0ff3a76f7eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '83d674ff289e6e807ff970008402307a') in 0.015214 seconds
-  Import took 0.016599 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000160 seconds.
-  path: Assets/Modelos/silla mapeada.fbx
-  artifactKey: Guid(fd4061043b177e946b09aa7763b3e11d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Modelos/silla mapeada.fbx using Guid(fd4061043b177e946b09aa7763b3e11d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '25f9a4347e7c863942bad1bbc491fd0d') in 0.015661 seconds
-  Import took 0.017082 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000173 seconds.
-  path: Assets/Modelos/RECIPIENTE 2 MAPEADO.fbx
-  artifactKey: Guid(ab5d1a1619523b6409d1dbebb1f74b97) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Modelos/RECIPIENTE 2 MAPEADO.fbx using Guid(ab5d1a1619523b6409d1dbebb1f74b97) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '576b4c8dc860af8b24ce7945354eba77') in 0.010896 seconds
-  Import took 0.012571 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 479.380324 seconds.
-  path: Assets/Texturas/Bote de salsa
-  artifactKey: Guid(d12be773a43bb4846a6fcd8325a254ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Texturas/Bote de salsa using Guid(d12be773a43bb4846a6fcd8325a254ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8ab5408d71c5a5bb62deffc0f05f1269') in 0.002390 seconds
-  Import took 0.004287 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.875048 seconds.
-  path: Assets/Texturas/Bote de salsa/Amarillo
-  artifactKey: Guid(0d636cfce7e9bb7409f4dac153c59e99) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Texturas/Bote de salsa/Amarillo using Guid(0d636cfce7e9bb7409f4dac153c59e99) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9e77e5a1997ab4f200f7c25d40416eaf') in 0.002461 seconds
-  Import took 0.004000 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.046852 seconds.
-  path: Assets/Texturas/Bote de salsa/Amarillo/Bote_de_salsa_Base_color.png
-  artifactKey: Guid(7b7e7a4308ca20444aa5fd696c287119) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Texturas/Bote de salsa/Amarillo/Bote_de_salsa_Base_color.png using Guid(7b7e7a4308ca20444aa5fd696c287119) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a90fc5e4e2aee3190d8ddca99f020b09') in 0.019627 seconds
-  Import took 0.021084 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000142 seconds.
-  path: Assets/Texturas/Bote de salsa/Amarillo/Bote_de_salsa_Normal_DirectX.png
-  artifactKey: Guid(5fd322b9e1b762b4a856db7cc1abff10) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Texturas/Bote de salsa/Amarillo/Bote_de_salsa_Normal_DirectX.png using Guid(5fd322b9e1b762b4a856db7cc1abff10) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2829cfc2b163b1b62bf51ae599c3a8ec') in 0.006904 seconds
-  Import took 0.008423 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000455 seconds.
-  path: Assets/Texturas/Bote de salsa/Amarillo/Bote_de_salsa_Metallic.png
-  artifactKey: Guid(e3fd9946c64b21b4a9d58598aad836d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Texturas/Bote de salsa/Amarillo/Bote_de_salsa_Metallic.png using Guid(e3fd9946c64b21b4a9d58598aad836d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '765dff7a4b0f26341c6cdaada14d6301') in 0.006586 seconds
-  Import took 0.008089 seconds .
+  Time since last request: 0.005710 seconds.
+  path: Assets/Modelos/Cliente 1.mat
+  artifactKey: Guid(d185217d04ac8c9408ad00bb2020f86b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modelos/Cliente 1.mat using Guid(d185217d04ac8c9408ad00bb2020f86b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd61a6ef448b6cb6e49c90c6422f3dc46') in 0.019617 seconds
+  Import took 0.022366 seconds .
 
 ========================================================================
 Received Import Request.
   Time since last request: 0.000184 seconds.
-  path: Assets/Texturas/Bote de salsa/Amarillo/Bote_de_salsa_Normal.png
-  artifactKey: Guid(07c5bfb25708b0b42ad06347e8917933) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Texturas/Bote de salsa/Amarillo/Bote_de_salsa_Normal.png using Guid(07c5bfb25708b0b42ad06347e8917933) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3bd6f3fd87a95e15ee0e73b2c21ada05') in 0.007920 seconds
-  Import took 0.009417 seconds .
+  path: Assets/Modelos/Cliente 2.mat
+  artifactKey: Guid(3999449720c65544ab23cda9180b13ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modelos/Cliente 2.mat using Guid(3999449720c65544ab23cda9180b13ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5fda0869449e9e344cee73b524559693') in 0.014981 seconds
+  Import took 0.016549 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000179 seconds.
-  path: Assets/Texturas/Bote de salsa/Amarillo/Bote_de_salsa_Height.png
-  artifactKey: Guid(559a63f8cbc7c8e4bbce94ee4f788a52) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Texturas/Bote de salsa/Amarillo/Bote_de_salsa_Height.png using Guid(559a63f8cbc7c8e4bbce94ee4f788a52) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '94b80498abaca5d9d3a0d230e56f28e3') in 0.007081 seconds
-  Import took 0.008541 seconds .
+  Time since last request: 0.000285 seconds.
+  path: Assets/Modelos/Cliente.mat
+  artifactKey: Guid(38e45f80ce37d224a8ba2889a81138dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modelos/Cliente.mat using Guid(38e45f80ce37d224a8ba2889a81138dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c88b22fab6f71f4b7b8823860b6210e5') in 0.014623 seconds
+  Import took 0.016170 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000169 seconds.
-  path: Assets/Texturas/Bote de salsa/Amarillo/Bote_de_salsa_Mixed_AO.png
-  artifactKey: Guid(d5dc61ce1b54c2944901ea539100899f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Texturas/Bote de salsa/Amarillo/Bote_de_salsa_Mixed_AO.png using Guid(d5dc61ce1b54c2944901ea539100899f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7cd2e0bfda51acb009008670a5551a67') in 0.006948 seconds
-  Import took 0.008320 seconds .
+  Time since last request: 0.037104 seconds.
+  path: Assets/Modelos/Bandeja.mat
+  artifactKey: Guid(743389c693b43b944abe66a568461320) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modelos/Bandeja.mat using Guid(743389c693b43b944abe66a568461320) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0c7b0d50c40afad6fa586fc507415c46') in 0.011439 seconds
+  Import took 0.012904 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000162 seconds.
-  path: Assets/Texturas/Bote de salsa/Amarillo/Bote_de_salsa_Roughness.png
-  artifactKey: Guid(049c3088e2e027d49a2c88e1315e7f5c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Texturas/Bote de salsa/Amarillo/Bote_de_salsa_Roughness.png using Guid(049c3088e2e027d49a2c88e1315e7f5c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'afb284433825042b5a3dd88fd9861da3') in 0.007765 seconds
-  Import took 0.009268 seconds .
+  Time since last request: 0.000164 seconds.
+  path: Assets/Modelos/Bote de salsa 1.mat
+  artifactKey: Guid(c026edc36f736294a815bfec3df2b9cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modelos/Bote de salsa 1.mat using Guid(c026edc36f736294a815bfec3df2b9cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '56054e7bd2d68b9efe3c1a110e89e692') in 0.013086 seconds
+  Import took 0.014747 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000192 seconds.
+  path: Assets/Modelos/Bote de salsa.mat
+  artifactKey: Guid(71b201b2e664377469b245a153b383ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modelos/Bote de salsa.mat using Guid(71b201b2e664377469b245a153b383ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a813b3317bd2f14ab92e9e5f058cdfd9') in 0.013650 seconds
+  Import took 0.015498 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 60.506749 seconds.
+  path: Assets/Texturas/Cliente
+  artifactKey: Guid(04f3197954e4d844f8de7a18c4eab70e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texturas/Cliente using Guid(04f3197954e4d844f8de7a18c4eab70e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8e96340bc8adca4653dfc67428f3cb83') in 0.002970 seconds
+  Import took 0.004338 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.730623 seconds.
+  path: Assets/Texturas/Encimera
+  artifactKey: Guid(3c6594b4de4aefa43bc364410bcbbdc1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texturas/Encimera using Guid(3c6594b4de4aefa43bc364410bcbbdc1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b96e4851435da589b7af6a70a21271d6') in 0.002883 seconds
+  Import took 0.004342 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 24.070033 seconds.
+  path: Assets/Texturas/Cliente/Cuerpo
+  artifactKey: Guid(ff44f146f639a4e46889bade43e85e04) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texturas/Cliente/Cuerpo using Guid(ff44f146f639a4e46889bade43e85e04) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6089d7d979bc7a5fa0f577d111b045d1') in 0.002624 seconds
+  Import took 0.004235 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 22.266603 seconds.
+  path: Assets/Texturas/Cliente/New Folder
+  artifactKey: Guid(64862ca254eeeda49a217669a1ae7f9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texturas/Cliente/New Folder using Guid(64862ca254eeeda49a217669a1ae7f9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8673cb7f2816dbf0ce41d7399ca81119') in 0.002887 seconds
+  Import took 0.004714 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000267 seconds.
+  path: Assets/Texturas/Cliente/New Folder
+  artifactKey: Guid(64862ca254eeeda49a217669a1ae7f9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texturas/Cliente/New Folder using Guid(64862ca254eeeda49a217669a1ae7f9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8673cb7f2816dbf0ce41d7399ca81119') in 0.002657 seconds
+  Import took 0.004023 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.272982 seconds.
+  path: Assets/Texturas/Cliente/Helices
+  artifactKey: Guid(31248b885231adc42aaa9f11089d7095) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texturas/Cliente/Helices using Guid(31248b885231adc42aaa9f11089d7095) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0d4a999aa146b7763437b543cb140631') in 0.002590 seconds
+  Import took 0.004415 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001016 seconds.
+  path: Assets/Texturas/Cliente/Helices
+  artifactKey: Guid(31248b885231adc42aaa9f11089d7095) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texturas/Cliente/Helices using Guid(31248b885231adc42aaa9f11089d7095) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0d4a999aa146b7763437b543cb140631') in 0.001941 seconds
+  Import took 0.003194 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 29.615370 seconds.
+  path: Assets/Texturas/Cliente/Laterales
+  artifactKey: Guid(013ae0d663e4ca34faf0fddc068463bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texturas/Cliente/Laterales using Guid(013ae0d663e4ca34faf0fddc068463bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1dbfac25582a02b3b13da2c3b9008f1a') in 0.003947 seconds
+  Import took 0.005666 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 14.964742 seconds.
+  path: Assets/Texturas/Puerta
+  artifactKey: Guid(caec178554459ba4791b3276ee72c5ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texturas/Puerta using Guid(caec178554459ba4791b3276ee72c5ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dd9af0104c48ada2630aa62532acc1f6') in 0.002543 seconds
+  Import took 0.003960 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000734 seconds.
+  path: Assets/Texturas/Puerta
+  artifactKey: Guid(caec178554459ba4791b3276ee72c5ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texturas/Puerta using Guid(caec178554459ba4791b3276ee72c5ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dd9af0104c48ada2630aa62532acc1f6') in 0.001752 seconds
+  Import took 0.003026 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 23.727869 seconds.
+  path: Assets/Texturas/Sala
+  artifactKey: Guid(424bab6408f39124a8bae676a248eb6d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texturas/Sala using Guid(424bab6408f39124a8bae676a248eb6d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b8e351169a7e2637dff52d11e2333fda') in 0.003364 seconds
+  Import took 0.004851 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.301510 seconds.
+  path: Assets/Texturas
+  artifactKey: Guid(3adbc74861dd43140b6d15e7c34e76ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texturas using Guid(3adbc74861dd43140b6d15e7c34e76ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fc5854f2a6c2fb237897e901612043eb') in 0.003848 seconds
+  Import took 0.005610 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.523344 seconds.
+  path: Assets/Texturas/BebidasMaquina
+  artifactKey: Guid(ee7768477cacc3e42b95e6ecb4c1ac01) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texturas/BebidasMaquina using Guid(ee7768477cacc3e42b95e6ecb4c1ac01) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '263cb95e7b660f59dc10fc5a7eb4f24a') in 0.003016 seconds
+  Import took 0.005695 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.308961 seconds.
+  path: Assets/Texturas/Texturas maquina 3
+  artifactKey: Guid(a00dc2a35b38ed2408b04156d96fb1cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texturas/Texturas maquina 3 using Guid(a00dc2a35b38ed2408b04156d96fb1cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '901e9f3a6ae1400c04d99bde937edab9') in 0.003014 seconds
+  Import took 0.004691 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 289.587804 seconds.
+  path: Assets/Texturas/caja ingredientes
+  artifactKey: Guid(a7c75f20a3f85c44580b64ce9760689e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texturas/caja ingredientes using Guid(a7c75f20a3f85c44580b64ce9760689e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '328ea1c059ba16077470ff9366fcd3b6') in 0.004139 seconds
+  Import took 0.006234 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.735586 seconds.
+  path: Assets/Texturas/caja ingredientes/Azul
+  artifactKey: Guid(5abd9cb8073c37c4ba1488dcb6a4e189) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texturas/caja ingredientes/Azul using Guid(5abd9cb8073c37c4ba1488dcb6a4e189) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '262c9b213f81b2a5a46a6ede24e2caec') in 0.002827 seconds
+  Import took 0.004459 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.611710 seconds.
+  path: Assets/Texturas/caja ingredientes/Azul/caja ingredientes 1_a
+  artifactKey: Guid(c964215a218446c4382420446faabd4c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texturas/caja ingredientes/Azul/caja ingredientes 1_a using Guid(c964215a218446c4382420446faabd4c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c19e6974a974e4bf0b430c2530760372') in 0.002559 seconds
+  Import took 0.003990 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000574 seconds.
+  path: Assets/Texturas/caja ingredientes/Azul/caja ingredientes 1_a
+  artifactKey: Guid(c964215a218446c4382420446faabd4c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texturas/caja ingredientes/Azul/caja ingredientes 1_a using Guid(c964215a218446c4382420446faabd4c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c19e6974a974e4bf0b430c2530760372') in 0.001974 seconds
+  Import took 0.003287 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.068634 seconds.
+  path: Assets/Texturas/caja ingredientes/Azul/caja ingredientes 1_a/RECIPIENTE 2 MAPEADO_caja ingredientes 1_BaseColor.png
+  artifactKey: Guid(b614a85702d779746926b592298a15c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texturas/caja ingredientes/Azul/caja ingredientes 1_a/RECIPIENTE 2 MAPEADO_caja ingredientes 1_BaseColor.png using Guid(b614a85702d779746926b592298a15c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'da76d4c6888a28730a1c7d4262e7cdcc') in 0.014191 seconds
+  Import took 0.015742 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000238 seconds.
+  path: Assets/Texturas/caja ingredientes/Azul/caja ingredientes 1_a/RECIPIENTE 2 MAPEADO_caja ingredientes 1_Emissive.png
+  artifactKey: Guid(ba6fd59a0ac0b594cb46193c1143b323) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texturas/caja ingredientes/Azul/caja ingredientes 1_a/RECIPIENTE 2 MAPEADO_caja ingredientes 1_Emissive.png using Guid(ba6fd59a0ac0b594cb46193c1143b323) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6ebd692373901f0f77b4f91b27f79d3c') in 0.004560 seconds
+  Import took 0.005832 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000158 seconds.
+  path: Assets/Texturas/caja ingredientes/Azul/caja ingredientes 1_a/RECIPIENTE 2 MAPEADO_caja ingredientes 1_Height.png
+  artifactKey: Guid(e7bfaac16fa7f6042996a91825ad7324) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texturas/caja ingredientes/Azul/caja ingredientes 1_a/RECIPIENTE 2 MAPEADO_caja ingredientes 1_Height.png using Guid(e7bfaac16fa7f6042996a91825ad7324) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '96f3bbd4a5ab93718b0bd4d9ce69a318') in 0.007513 seconds
+  Import took 0.008945 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000228 seconds.
+  path: Assets/Texturas/caja ingredientes/Azul/caja ingredientes 1_a/RECIPIENTE 2 MAPEADO_caja ingredientes 1_Normal.png
+  artifactKey: Guid(093596cee35eaed428c0d0ec09989a42) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texturas/caja ingredientes/Azul/caja ingredientes 1_a/RECIPIENTE 2 MAPEADO_caja ingredientes 1_Normal.png using Guid(093596cee35eaed428c0d0ec09989a42) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ee9db7f1f1fc6654bbbf2853c4127ebd') in 0.005578 seconds
+  Import took 0.007047 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000262 seconds.
+  path: Assets/Texturas/caja ingredientes/Azul/caja ingredientes 1_a/RECIPIENTE 2 MAPEADO_caja ingredientes 1_Metallic.png
+  artifactKey: Guid(d31091f32999cb047ac4603792e719b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texturas/caja ingredientes/Azul/caja ingredientes 1_a/RECIPIENTE 2 MAPEADO_caja ingredientes 1_Metallic.png using Guid(d31091f32999cb047ac4603792e719b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '588f099c3b01cecebdd5e2e513304cde') in 0.005654 seconds
+  Import took 0.007093 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000229 seconds.
+  path: Assets/Texturas/caja ingredientes/Azul/caja ingredientes 1_a/RECIPIENTE 2 MAPEADO_caja ingredientes 1_Roughness.png
+  artifactKey: Guid(122da38d7af938140923a0938f40e0f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texturas/caja ingredientes/Azul/caja ingredientes 1_a/RECIPIENTE 2 MAPEADO_caja ingredientes 1_Roughness.png using Guid(122da38d7af938140923a0938f40e0f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c503f6b8c3ecb39ded95ef3ebe5e8fed') in 0.005540 seconds
+  Import took 0.006904 seconds .
 
 AssetImportWorkerClient::OnTransportError - code=2 error=End of file
