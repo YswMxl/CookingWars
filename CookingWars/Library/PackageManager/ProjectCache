@@ -1,34 +1,19 @@
 m_ProjectFiles:
   m_ManifestFileStatus:
-<<<<<<< Updated upstream
-    m_FilePath: C:/Users/Mxlky/OneDrive/Escritorio/CookingWars/CookingWars/Packages/manifest.json
-=======
     m_FilePath: C:/Users/rebeko/Documents/GitHub/CookingWars/CookingWars/Packages/manifest.json
->>>>>>> Stashed changes
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-<<<<<<< Updated upstream
-      ticks: 638451514977396363
-    m_Hash: 1150746740
-  m_LockFileStatus:
-    m_FilePath: C:/Users/Mxlky/OneDrive/Escritorio/CookingWars/CookingWars/Packages/packages-lock.json
-=======
       ticks: 638451515017310929
     m_Hash: 1150746740
   m_LockFileStatus:
     m_FilePath: C:/Users/rebeko/Documents/GitHub/CookingWars/CookingWars/Packages/packages-lock.json
->>>>>>> Stashed changes
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-<<<<<<< Updated upstream
-      ticks: 638451514977396363
-=======
       ticks: 638451515017330960
->>>>>>> Stashed changes
     m_Hash: 2666813038
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
@@ -40,11 +25,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 2.0.4
       source: 1
-<<<<<<< Updated upstream
-      resolvedPath: C:\Users\Mxlky\OneDrive\Escritorio\CookingWars\CookingWars\Library\PackageCache\com.unity.collab-proxy@2.0.4
-=======
       resolvedPath: C:\Users\rebeko\Documents\GitHub\CookingWars\CookingWars\Library\PackageCache\com.unity.collab-proxy@2.0.4
->>>>>>> Stashed changes
       assetPath: Packages/com.unity.collab-proxy
       name: com.unity.collab-proxy
       displayName: Version Control
@@ -205,11 +186,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 3.0.21
       source: 1
-<<<<<<< Updated upstream
-      resolvedPath: C:\Users\Mxlky\OneDrive\Escritorio\CookingWars\CookingWars\Library\PackageCache\com.unity.ide.rider@3.0.21
-=======
       resolvedPath: C:\Users\rebeko\Documents\GitHub\CookingWars\CookingWars\Library\PackageCache\com.unity.ide.rider@3.0.21
->>>>>>> Stashed changes
       assetPath: Packages/com.unity.ide.rider
       name: com.unity.ide.rider
       displayName: JetBrains Rider Editor
@@ -344,11 +321,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 2.0.18
       source: 1
-<<<<<<< Updated upstream
-      resolvedPath: C:\Users\Mxlky\OneDrive\Escritorio\CookingWars\CookingWars\Library\PackageCache\com.unity.ide.visualstudio@2.0.18
-=======
       resolvedPath: C:\Users\rebeko\Documents\GitHub\CookingWars\CookingWars\Library\PackageCache\com.unity.ide.visualstudio@2.0.18
->>>>>>> Stashed changes
       assetPath: Packages/com.unity.ide.visualstudio
       name: com.unity.ide.visualstudio
       displayName: Visual Studio Editor
@@ -453,11 +426,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.2.5
       source: 1
-<<<<<<< Updated upstream
-      resolvedPath: C:\Users\Mxlky\OneDrive\Escritorio\CookingWars\CookingWars\Library\PackageCache\com.unity.ide.vscode@1.2.5
-=======
       resolvedPath: C:\Users\rebeko\Documents\GitHub\CookingWars\CookingWars\Library\PackageCache\com.unity.ide.vscode@1.2.5
->>>>>>> Stashed changes
       assetPath: Packages/com.unity.ide.vscode
       name: com.unity.ide.vscode
       displayName: Visual Studio Code Editor
@@ -530,11 +499,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.1.33
       source: 1
-<<<<<<< Updated upstream
-      resolvedPath: C:\Users\Mxlky\OneDrive\Escritorio\CookingWars\CookingWars\Library\PackageCache\com.unity.test-framework@1.1.33
-=======
       resolvedPath: C:\Users\rebeko\Documents\GitHub\CookingWars\CookingWars\Library\PackageCache\com.unity.test-framework@1.1.33
->>>>>>> Stashed changes
       assetPath: Packages/com.unity.test-framework
       name: com.unity.test-framework
       displayName: Test Framework
@@ -668,11 +633,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 3.0.6
       source: 1
-<<<<<<< Updated upstream
-      resolvedPath: C:\Users\Mxlky\OneDrive\Escritorio\CookingWars\CookingWars\Library\PackageCache\com.unity.textmeshpro@3.0.6
-=======
       resolvedPath: C:\Users\rebeko\Documents\GitHub\CookingWars\CookingWars\Library\PackageCache\com.unity.textmeshpro@3.0.6
->>>>>>> Stashed changes
       assetPath: Packages/com.unity.textmeshpro
       name: com.unity.textmeshpro
       displayName: TextMeshPro
@@ -859,11 +820,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.4.8
       source: 1
-<<<<<<< Updated upstream
-      resolvedPath: C:\Users\Mxlky\OneDrive\Escritorio\CookingWars\CookingWars\Library\PackageCache\com.unity.timeline@1.4.8
-=======
       resolvedPath: C:\Users\rebeko\Documents\GitHub\CookingWars\CookingWars\Library\PackageCache\com.unity.timeline@1.4.8
->>>>>>> Stashed changes
       assetPath: Packages/com.unity.timeline
       name: com.unity.timeline
       displayName: Timeline
@@ -2861,11 +2818,7 @@ m_PackageAssets:
       isDirectDependency: 0
       version: 1.0.6
       source: 1
-<<<<<<< Updated upstream
-      resolvedPath: C:\Users\Mxlky\OneDrive\Escritorio\CookingWars\CookingWars\Library\PackageCache\com.unity.ext.nunit@1.0.6
-=======
       resolvedPath: C:\Users\rebeko\Documents\GitHub\CookingWars\CookingWars\Library\PackageCache\com.unity.ext.nunit@1.0.6
->>>>>>> Stashed changes
       assetPath: Packages/com.unity.ext.nunit
       name: com.unity.ext.nunit
       displayName: Custom NUnit
@@ -2889,11 +2842,6 @@ m_PackageAssets:
         - 1.0.6
         - 2.0.2
         - 2.0.3
-<<<<<<< Updated upstream
-        - 2.0.4
-        - 2.0.5
-=======
->>>>>>> Stashed changes
         compatible:
         - 0.1.5-preview
         - 0.1.6-preview
@@ -2903,11 +2851,6 @@ m_PackageAssets:
         - 1.0.6
         - 2.0.2
         - 2.0.3
-<<<<<<< Updated upstream
-        - 2.0.4
-        - 2.0.5
-=======
->>>>>>> Stashed changes
         verified: 1.0.6
       dependencies: []
       resolvedDependencies: []
@@ -2937,9 +2880,5 @@ m_PackageAssets:
         path: 
   m_LocalPackages:
     m_LocalFileStatus: []
-<<<<<<< Updated upstream
-m_ProjectPath: C:/Users/Mxlky/OneDrive/Escritorio/CookingWars/CookingWars/Packages
-=======
 m_ProjectPath: C:/Users/rebeko/Documents/GitHub/CookingWars/CookingWars/Packages
->>>>>>> Stashed changes
 m_EditorVersion: 2020.3.6f1 (338bb68529b2)
