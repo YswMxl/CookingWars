@@ -6,7 +6,6 @@ using UnityEngine.Audio;
 
 public class MenuOpciones : MonoBehaviour
 {
-    [Serialize]
     public void FullScreen(bool pantallaCompleta)
     {
         Screen.fullScreen = pantallaCompleta;
